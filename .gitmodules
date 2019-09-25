@@ -1,3 +1,3 @@
 [submodule "ngsimplecrm"]
-	path = /ngsimplecrm
-	url = https://github.com/pwalters04/angular-python
+	path = ngsimplecrm
+	url = ssh://ngsimplecrm
